@@ -1,14 +1,14 @@
 
-# **_Hi there!I am Faria Raghib._** :octocat: :octocat: :octocat:
+<h1 align="center"><strong><em>Hi there! I am Faria Raghib. :octocat: :octocat: :octocat: </em></strong></h1>
 
 # 💫 About Me:
 I am currently working on applying Machine Learning to solve real-world challenges ⚡⚡, with a focus on projects like predictive analytics :bar_chart: , recommendation systems, and AI-driven automation :computer:. My work involves refining machine learning models to improve their accuracy, efficiency, and scalability for practical use. I’m actively looking to collaborate on innovative projects, particularly in areas such as chatbots, Natural Language Processing (NLP), and computer vision.:technologist: I’m passionate about pushing the boundaries of AI to develop smart, efficient solutions, and I’m eager to work with others on building tools and technologies that leverage machine learning for real-world applications. :rocket::rocket:
 
-At the same time, I’m seeking help in advancing my expertise in NLP and computer vision, where I aim to dive deeper into algorithm optimization, model fine-tuning, and addressing complex challenges in these fields. I am also expanding my knowledge of how to deploy machine learning models into production environments, focusing on making these systems scalable, reliable, and robust for continuous use. Along with deployment, I am honing my skills in feature engineering, ensuring that the data feeding into models is carefully crafted to maximize performance.🔥🔥🔥
+At the same time, I’m seeking help in advancing my expertise in NLP and computer vision, where I aim to dive deeper into algorithm optimization, model fine-tuning, and addressing complex challenges in these fields.✨✨✨ I am also expanding my knowledge of how to deploy machine learning models into production environments, focusing on making these systems scalable, reliable, and robust for continuous use🎉🎉🎉Along with deployment, I am honing my skills in feature engineering, ensuring that the data feeding into models is carefully crafted to maximize performance.🔥🔥🔥
 
 Feel free to reach out if you’d like to discuss anything related to Python, Machine Learning, databases, or data science in general.💥 I’m always up for a conversation on building data-driven solutions or improving AI-based systems.
 
-_A fun fact about me: I love uncovering hidden patterns in datasets and strongly believe that every dataset has a story waiting to be told. When I’m not coding, I’m usually exploring the latest trends in AI or brainstorming ways to turn complex data problems into elegant, automated solutions._ 🦕🦕🦕
+<p><strong><em><span style="color:Aquamarine">A fun fact about me: I love uncovering hidden patterns in datasets and strongly believe that every dataset has a story waiting to be told.When I’m not coding, I’m usually exploring the latest trends in AI or brainstorming ways to turn complex data problems into elegant, automated solutions.🦕🦕🦕</span></em></strong></p>
 
 
 ## 🌐 Socials:
