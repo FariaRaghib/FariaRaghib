@@ -13,8 +13,6 @@ My current focus:
 - ⚙️ Automating business processes end-to-end (invoice processing, customer support, content pipelines)
 - 🚀 Developing **AI SaaS products** powered by agentic backends
 
-I'm pursuing an MS at LUMS alongside active freelance work in AI automation, with a focus on delivering production-ready systems for real business problems.
-
 ---
 
 ## 🤖 Agentic AI Stack
